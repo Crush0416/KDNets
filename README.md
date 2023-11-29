@@ -1,8 +1,8 @@
 # KDNets
 Multiple domain characteristics joint learning of SAR targets for SAR-ATR
 -
+![image](https://github.com/Crush0416/KDNets/assets/44805578/e80a4dc7-d4bd-4b1e-b716-9701046789a4)
+
 -
 -
--
--Since this study is under review, if accepted, we will relase the source code of KDNets as soon as possible.
 
